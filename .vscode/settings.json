@@ -1,0 +1,14 @@
+{
+    "VsCodeTaskButtons.tasks": [
+    {
+    "label": "$(run) Run",
+    "task": "CubeProg: Flash project (SWD)",
+    "tooltip": "Build and run"
+    },
+    ],
+    "files.associations": {
+        "string.h": "c",
+        "main.h": "c"
+    }
+    }
+    
